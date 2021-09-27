@@ -1,10 +1,6 @@
 # healthcare_chatbot
 List of Contibutors:
-Affan Mohammed N Marikar
-Akash S
-Aldas T Francis
-Athul Raju
-Rehana K C
+Affan Mohammed N Marikar, Akash S, Aldas T Francis, Athul Raju, Rehana K C
 
 Problem Statement
 Mental health management of people has become increasingly important. It is an essential factor for living a good life. Unfortunately, consulting a doctor for non-life-threatening problems can be difficult at times due to busy lives. The taint associated with psychiatric disorders makes people not seek any help. Since mental health includes our emotional, psychological, and social well-being, It affects how we think, feel, and act. So the people must be able to determine how to handle stress and make healthy choices. 
@@ -17,3 +13,6 @@ Our chatbot will provide a supportive presence to service users, engaging them w
 
 Impact
 “Conversational agents appear to be a feasible, engaging, and effective way to deliver CBT.”-Kathleen Kara Fitzpatrick, Alison Darcy, Molly Vierhile, in a study published in JMIR Mental Health. The main use aim of this chatbot is to support people with depressive symptoms or clinical anxiety. Though it can’t treat these disorders directly, it can offer ‘always-on’ alleviating help. Modelling tactics from behavioural therapy can encourage users to accept their emotions.So, these chatbots will offer relevant tools and resources to help users find healthy coping strategies. (Spanning anything from meditation to mental exercises, to self-help, etc.
+
+UML Diagram
+(https://user-images.githubusercontent.com/49243518/134843489-3196fc9e-cb30-4f44-9ddf-631e0206da9d.jpg)

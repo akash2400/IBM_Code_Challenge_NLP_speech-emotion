@@ -1,4 +1,10 @@
 # healthcare_chatbot
+List of Contibutors:
+Affan Mohammed N Marikar
+Akash S
+Aldas T Francis
+Athul Raju
+Rehana K C
 
 Problem Statement
 Mental health management of people has become increasingly important. It is an essential factor for living a good life. Unfortunately, consulting a doctor for non-life-threatening problems can be difficult at times due to busy lives. The taint associated with psychiatric disorders makes people not seek any help. Since mental health includes our emotional, psychological, and social well-being, It affects how we think, feel, and act. So the people must be able to determine how to handle stress and make healthy choices. 

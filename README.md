@@ -15,4 +15,4 @@ Our chatbot will provide a supportive presence to service users, engaging them w
 _“Conversational agents appear to be a feasible, engaging, and effective way to deliver CBT.”_-Kathleen Kara Fitzpatrick, Alison Darcy, Molly Vierhile, in a study published in JMIR Mental Health. The main use aim of this chatbot is to support people with depressive symptoms or clinical anxiety. Though it can’t treat these disorders directly, it can offer ‘always-on’ alleviating help. Modelling tactics from behavioural therapy can encourage users to accept their emotions.So, these chatbots will offer relevant tools and resources to help users find healthy coping strategies. (Spanning anything from meditation to mental exercises, to self-help) etc.
 
 UML Diagram
-(https://user-images.githubusercontent.com/49243518/134843489-3196fc9e-cb30-4f44-9ddf-631e0206da9d.jpg)
+

@@ -2,18 +2,32 @@
 **List of Contibutors:
 Affan Mohammed N Marikar, Akash S, Aldas T Francis, Athul Raju, Rehana K C**
 
+
+### Overview
+A Machine learning model  for sentiment recognition from speech using SVM for the purpose of speech recognition. In this model we will be accepting audio message from the user and it will be converted to text using python libraries such as speech recognition. This text will be passed for sentimental analysis and proper output will be generated. Multi-class sentiment analysis problem to classify texts into five emotion categories: joy, sadness, anger, fear, neutral. 
+
+
 ### Problem Statement
-Mental health management of people has become increasingly important. It is an essential factor for living a good life. Unfortunately, consulting a doctor for non-life-threatening problems can be difficult at times due to busy lives. The taint associated with psychiatric disorders makes people not seek any help. Since mental health includes our emotional, psychological, and social well-being, It affects how we think, feel, and act. So the people must be able to determine how to handle stress and make healthy choices. 
+The goal is to build a model based on Speaker’s input and thereby finding  the emotional  state.
+Identifying mental-wellbeing of  humans.
+Identifying key emotional triggers .
+To study human behavior in which we extract user opinion and emotion from plain text.
 
-This project proposes a framework of mental health chatbots that is based on the Cognitive Behavioural Therapy methodology. CBT is a form of talking therapy designed to manage mental health states by rearranging the way the patient perceives it, i.e., making negative thoughts positive. 
-The NLP algorithm performs sentiment analysis to detect trigger words, performs intent classification, select the most probable response and handle the flow of conversation. This version of chatbots enhance its convenience for use and help people learn more about their mental health and take bettercare of their well-being in these challenging times that have significantly impacted our day-to-day lives. The chatbot is an anonymous companion. It has the potential to be a useful tool for individuals with mental stress, especially those who are reluctant to seek mental health advice due to stigmatization. Chatbot aims to make lives easier and to improve the quality of life.
 
-### Vision
-Our chatbot will provide a supportive presence to service users, engaging them with the conversation at times when they feel low. This chatbot will simply provide a friendly ear. A place to air concerns, worries, intrusive thoughts or engage in ‘therapeutic’ small talk. The chatbot uses this conversational input to detect the mood of the service user and respond with empathy. The chatbot will also provide guidance or advice to help users challenge their negative thoughts.
+### Solution
+Audio message is converted into text message using python libraries.
+With the help of SVM, emotion recognition is done.
+Web page is developed using flask.
 
-### Impact
-_“Conversational agents appear to be a feasible, engaging, and effective way to deliver CBT.”_-Kathleen Kara Fitzpatrick, Alison Darcy, Molly Vierhile, in a study published in JMIR Mental Health. The main use aim of this chatbot is to support people with depressive symptoms or clinical anxiety. Though it can’t treat these disorders directly, it can offer ‘always-on’ alleviating help. Modelling tactics from behavioural therapy can encourage users to accept their emotions.So, these chatbots will offer relevant tools and resources to help users find healthy coping strategies. (Spanning anything from meditation to mental exercises, to self-help) etc.
+### Applications
+E-Commerce Industry: Analyzing the customer review as textual data from chat-bots,logs from contact centers,emails.
+Social Media Monitoring: Brand monitoring based on the details given by consumer.
+Live insights: Customer mood can change at any point during a customer service interaction,user can see the mood of each customer in a session
+Market and competitor research: Find out who’s trending among your competitors and how your marketing efforts compare.
+Ads Placement: Place an  ad when one praises or criticizes a product.
 
-UML Diagram
 
-![UML](https://user-images.githubusercontent.com/49243518/135201561-83d0c7c5-33c5-4da1-893d-3f4593cb842a.jpg)
+
+
+
+
